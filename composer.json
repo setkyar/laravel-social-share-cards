@@ -1,6 +1,6 @@
 {
     "name": "setkyar/laravel-social-share-cards",
-    "description": "Easy flash notifications",
+    "description": "Easy Social Cards",
     "keywords": [
         "setkyar",
         "laravel-social-share-cards"
@@ -23,5 +23,6 @@
         "psr-4": {
             "SetKyar\\Social\\": "src"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
