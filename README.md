@@ -55,8 +55,8 @@ Include meta-article in the head tag with `title`, `description`, and `image` wh
 ### Example Appearance
 
 ![Facebook Apperance](example/fb.png)
-![Twitter Apperance](example/twitter.jpg)
-![Google+ Apperance](example/gplus.jpg)
+![Twitter Apperance](example/twitter.png)
+![Google+ Apperance](example/gplus.png)
 
 ##Contributing
 
