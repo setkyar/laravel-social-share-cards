@@ -27,6 +27,6 @@
     <meta name="twitter:image"          content="{{ $image }}">
 
     <!-- Google Plus Full-Bleed Image -->
-    <meta itemprop="og:headline"        content="{{ $image }}" />
+    <meta itemprop="og:headline"        content="{{ $title }}" />
     <meta itemprop="og:description"     content="{{ $description }}" />
 @endif
