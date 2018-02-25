@@ -18,7 +18,7 @@
 
 
     <!-- Twitter Summary Card With Large Image -->
-    <meta name="twitter:card"           content="summary_large_image">
+    <meta name="twitter:card"           content="{{ $image }}">
     @if(config('social.twitter_site') !=='')
         <meta name="twitter:site"       content="{{  config('social.twitter_site') }}">
     @endif
